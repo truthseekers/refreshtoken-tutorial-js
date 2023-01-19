@@ -1,0 +1,25 @@
+This tutorial is a mess, and is not complete. Saving for my own reference, but the login works, and the privateposts will have a refreshtoken refresh the access token once before expiration.
+
+Todos:
+    - Complete the setup of the app.
+        - Logout functionality
+        - Re-route the person to a protected route.
+        - Incorrect Password
+        - Incorrect Email
+        - Invalid token
+        - Add passport.js (in a separate thing)
+
+
+Record Keeping:
+        - Make sure entire flow for all tasks is accounted for with my #'s for nest-react-fullstack.
+            - Logout
+            - Refreshed token.
+
+
+Done:
+	- Login flow
+    - Auto Refresh refresh token exists and is valid.
+    - LogIn functionality
+
+
+This file is not for any tutorial purposes. Just my own notes on things I need to do / reference
